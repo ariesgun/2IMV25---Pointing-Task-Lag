@@ -1,0 +1,29 @@
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2008
+
+Project("{049055C2-82EA-EAE5-5B91-B4B0BFD886A4}") = "2IMV25_LagPointingTask", "Assembly-CSharp-firstpass.csproj", "{6AF0490D-81DA-7AD3-038B-93EACB818EA7}"
+EndProject
+Project("{049055C2-82EA-EAE5-5B91-B4B0BFD886A4}") = "2IMV25_LagPointingTask", "Assembly-CSharp.csproj", "{A1970EDA-EEAA-05C6-8E99-43CEB5AA18DC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6AF0490D-81DA-7AD3-038B-93EACB818EA7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6AF0490D-81DA-7AD3-038B-93EACB818EA7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6AF0490D-81DA-7AD3-038B-93EACB818EA7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6AF0490D-81DA-7AD3-038B-93EACB818EA7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A1970EDA-EEAA-05C6-8E99-43CEB5AA18DC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A1970EDA-EEAA-05C6-8E99-43CEB5AA18DC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A1970EDA-EEAA-05C6-8E99-43CEB5AA18DC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A1970EDA-EEAA-05C6-8E99-43CEB5AA18DC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+	EndGlobalSection
+EndGlobal
